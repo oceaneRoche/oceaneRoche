@@ -1,12 +1,12 @@
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
-    <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="1000" height="281"/>
+    <img src="https://oclock.io/wp-content/uploads/2024/05/Cybersecurite-oclock.webp" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Oceane</h1>
   <h3>Étudiant en 2ème année de BTS CIEL Option : IR</h3>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.supinfo.com/wp-content/uploads/2023/05/cybersecurite-jpg.webp">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
