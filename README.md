@@ -65,22 +65,4 @@
   </a> 
 </div>
 
----
 
-<h3 align="left">Stats :</h3>
-<div align="center" style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-  <!-- Langues -->
-  <div style="margin-bottom: 20px; height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin04&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=500&langs=c%2B%2B%2Cjava%2Cpython%2Ckotlin%2Chtml%2Ccss%2Cphp%2Cjavascript%2Ccsharp" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
-  </div>
-
-  <!-- Stats principales -->
-  <div style="margin-bottom: 20px; height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sorin04&show_icons=true&locale=en" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
-  </div>
-
-  <!-- Streak -->
-  <div style="height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorin04&" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
-  </div>
-</div>
