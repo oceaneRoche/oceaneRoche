@@ -16,15 +16,15 @@
 
 - 💬 Compétences: **Force de proposition**
 
-- 📫 Comment me joindre: **sorin.pirgari@lyceeastier.com**
+- 📫 Comment me joindre: **oceane.roche@lyceeastier.com**
 
-- ⚡ À propos de moi: **Persévérant**
+- ⚡ À propos de moi: **Persévérante**
 
 
 
 <h3 align="left">Réseaux professionnels:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sorin-pirgari-228a36309/" target="blank">
+  <a href="https://fr.linkedin.com/in/oceane-roche-5b7023338" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sorin-pirgari" height="30" width="40" />
   </a>
 </p>
