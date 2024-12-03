@@ -25,7 +25,7 @@
 <h3 align="left">Réseaux professionnels:</h3>
 <p align="left">
   <a href="https://fr.linkedin.com/in/oceane-roche-5b7023338" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sorin-pirgari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-oceane-roche" height="30" width="40" />
   </a>
 </p>
 
