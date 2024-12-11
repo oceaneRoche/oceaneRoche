@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
 </p>
 
-- 🌱 J’apprends actuellement **Android**
+- 🌱 J’apprends actuellement **Kotlin**
 
 - 💬 Compétences: **Force de proposition**
 
