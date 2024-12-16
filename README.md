@@ -63,6 +63,3 @@
   </a> 
 </div>
 
----
-
-![Snake animation](https://github.com/oceaneRoche/oceaneRoche/blob/output/snake.svg)
