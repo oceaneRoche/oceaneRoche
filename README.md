@@ -1,4 +1,5 @@
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
