@@ -8,10 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.supinfo.com/wp-content/uploads/2023/05/cybersecurite-jpg.webp">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=oceaneRoche&label=Profile%20views&color=0e75b6&style=flat" alt="oceaneRoche" /> 
-</p>
-
 - 🌱 J’apprends actuellement **Kotlin**
 
 - 💬 Compétences: **Force de proposition**
