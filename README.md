@@ -1,6 +1,3 @@
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
     <img src="https://oclock.io/wp-content/uploads/2024/05/Cybersecurite-oclock.webp" width="1000" height="281"/>
