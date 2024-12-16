@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.supinfo.com/wp-content/uploads/2023/05/cybersecurite-jpg.webp">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
+  <img src="https://komarev.com/ghpvc/?username=oceaneRoche&label=Profile%20views&color=0e75b6&style=flat" alt="oceaneRoche" /> 
 </p>
 
 - 🌱 J’apprends actuellement **Kotlin**
@@ -19,8 +19,6 @@
 - 📫 Comment me joindre: **oceane.roche@lyceeastier.com**
 
 - ⚡ À propos de moi: **Persévérante**
-
-
 
 <h3 align="left">Réseaux professionnels:</h3>
 <p align="left">
@@ -64,5 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a> 
 </div>
-![snake gif](https://github.com/oceaneRoche/oceaneRoche/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+![Snake animation](https://github.com/oceaneRoche/oceaneRoche/blob/output/snake.svg)
