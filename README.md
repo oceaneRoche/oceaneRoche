@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
-    <img src="https://oclock.io/wp-content/uploads/2024/05/Cybersecurite-oclock.webp" width="1000" height="281"/>
+  <img src="https://media3.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif?cid=6c09b952clw86c1co0pa7z3wvpd1ugnagq9aqybmhlwakhl6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Oceane</h1>
   <h3>Étudiant en 2ème année de BTS CIEL Option : IR</h3>
@@ -56,6 +56,6 @@
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a> 
+  </a>
 </div>
 
