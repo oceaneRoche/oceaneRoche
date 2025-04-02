@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.supinfo.com/wp-content/uploads/2023/05/cybersecurite-jpg.webp">
 
-- 🌱 J’apprends actuellement **Wpf**
+- 🌱 J’apprends actuellement **React**
 
 - 💬 Compétences: **Force de proposition**
 
