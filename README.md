@@ -3,12 +3,12 @@
   <img src="https://media3.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif?cid=6c09b952clw86c1co0pa7z3wvpd1ugnagq9aqybmhlwakhl6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Oceane</h1>
-  <h3>Étudiante en 2ème année de BTS CIEL Option : IR</h3>
+  <h3>Étudiante en 3ème année de Licence Pro Communication Numerique et E-Activité</h3>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://www.supinfo.com/wp-content/uploads/2023/05/cybersecurite-jpg.webp">
 
-- 🌱 J’apprends actuellement **React**
+- 🌱 J’apprends actuellement **Javascript**
 
 - 💬 Compétences: **Force de proposition**
 
